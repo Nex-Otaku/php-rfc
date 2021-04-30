@@ -13,6 +13,9 @@ Make discussions about PHP RFC opened to community feedback.
 We strive to provide valuable feedback about RFCs to move PHP forward. 
 Mailing list for this purpose is not good enough.
 
+## Questions
+Any questions about this project please ask here: https://github.com/Nex-Otaku/php-rfc/discussions
+
 ## Who
 * https://github.com/Nex-Otaku
 * https://github.com/badmansan
