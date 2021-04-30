@@ -14,7 +14,7 @@ We strive to provide valuable feedback about RFCs to move PHP forward.
 Mailing list for this purpose is not good enough.
 
 ## Who
-https://github.com/Nex-Otaku
-https://github.com/badmansan
+* https://github.com/Nex-Otaku
+* https://github.com/badmansan
 
 (if you like this idea please add your name to this list)
