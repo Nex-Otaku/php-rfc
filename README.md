@@ -10,7 +10,8 @@ Make discussions about PHP RFC opened to community feedback.
 4. Be polite or be banned
 
 ## Why
-We are tired of waiting when PHP Core Team moves discussions about RFC from mailing list to GitHub.
+We strive to provide valuable feedback about RFCs to move PHP forward. 
+Mailing list for this purpose is not good enough.
 
 ## Who
 https://github.com/Nex-Otaku
