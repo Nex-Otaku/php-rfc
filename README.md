@@ -15,6 +15,8 @@ Make discussions about PHP RFC opened to community feedback.
 * [Always strict type checking](https://github.com/Nex-Otaku/php-rfc/issues/17)
 * [Generics](https://github.com/Nex-Otaku/php-rfc/issues/18)
 
+Full list [here](https://github.com/Nex-Otaku/php-rfc/issues).
+
 ## Rules
 1. Anybody can post his own RFC draft, just create an issue
 2. Existing "official" RFCs can be posted as well
