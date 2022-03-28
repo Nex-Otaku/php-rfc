@@ -8,7 +8,6 @@ Make discussions about PHP RFC opened to community feedback.
 * [All parameters must be typed](https://github.com/Nex-Otaku/php-rfc/issues/10)
 * [Class properties must be typed](https://github.com/Nex-Otaku/php-rfc/issues/11)
 * [Visibility modifiers are required](https://github.com/Nex-Otaku/php-rfc/issues/12)
-* [Final on variables](https://github.com/Nex-Otaku/php-rfc/issues/13)
 * [No more uninitialized state](https://github.com/Nex-Otaku/php-rfc/issues/14)
 * [Better closures](https://github.com/Nex-Otaku/php-rfc/issues/15)
 * [Scalar types are also objects](https://github.com/Nex-Otaku/php-rfc/issues/16)
